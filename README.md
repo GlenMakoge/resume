@@ -21,7 +21,7 @@ A passionate and driven soon-to-be Computer Engineering graduate eager to contri
 
 ## Technical Skills  
 - **Programming Languages:** HTML, CSS, JavaScript, SaaS C# (beginner level)  
-- **Frameworks & Libraries:** React, React Native, Express.js  
+- **Frameworks & Libraries:** React, React Native, Express.js 
 - **Backend Development:** Node.js, MongoDB  
 - **Tools & Platforms:** Git, Visual Studio, REST APIs, Postman  
 - **Soft Skills:** Problem-solving, teamwork, adaptability, strong communication  
