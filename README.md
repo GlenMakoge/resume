@@ -37,11 +37,11 @@ A passionate and driven soon-to-be Computer Engineering graduate eager to contri
 ## Experience  
 **Software Development Intern**  
 *KING’S DIGITAL Ltd* - Buea, Cameroon  
-**Start:** August 6, 2024 | **End:** November 30, 2024
+**Start:** August 6, 2024 | **End:** December 06, 2024
 - Worked on small-scale development projects, including feature updates and debugging.  
 - Gained familiarity with agile development and version control systems.  
 **Professional Internship:**
-**Start:** November 30, 2024
+**Start:** December 06, 2024
 
 ---
 
@@ -55,7 +55,7 @@ A passionate and driven soon-to-be Computer Engineering graduate eager to contri
 - **Beatboxing:** Creating music with my mouth is an amazing talent of mine.  
 - **Dancing, Singing, Sketching:** Passionate about creative arts.  
 - **Music Production:** A budding producer with a flair for making beats.  
-- **Gymnastics:** Enjoys fitness and flexibility training.  
+- **Gymnist:** Enjoys fitness and flexibility training.  
 
 ---
 
